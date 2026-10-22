@@ -1,6 +1,6 @@
-# OpenCode Colourscheme for Zed
+# oc-2 Midnight for Zed
 
-Unofficial port of the <a href="https://github.com/anomalyco/opencode">OpenCode</a> oc-2 theme for Zed, based on <a href="https://github.com/builtbyleo/oc-2.nvim">oc-2.nvim</a>
+Unofficial dark port of the <a href="https://github.com/anomalyco/opencode">OpenCode</a> oc-2 theme for Zed, based on <a href="https://github.com/builtbyleo/oc-2.nvim">oc-2.nvim</a>.
 
 ## Variants
 
@@ -9,7 +9,7 @@ Unofficial port of the <a href="https://github.com/anomalyco/opencode">OpenCode<
 
 ## Installation
 
-Open the extensions page (`zed: extensions`), search for **oc-2** and install it. Then pick **oc-2** or **oc-2-noir** with `theme selector: toggle`.
+Open the extensions page (`zed: extensions`), search for **oc-2 Midnight** and install it. Then pick **oc-2** or **oc-2-noir** with `theme selector: toggle`.
 
 To install manually, copy `themes/oc-2.json` to `~/.config/zed/themes/`.
 
