@@ -4,4 +4,4 @@ version = "0.1.0"
 schema_version = 1
 authors = ["Justin Chiam"]
 description = "Unofficial dark port of the OpenCode OC-2 theme with a higher-contrast noir variant"
-repository = "https://github.com/justin-chiam/oc-2.zed"
+repository = "https://github.com/justin-chiam/oc-2-midnight.zed"
